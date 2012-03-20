@@ -1,11 +1,4 @@
 <?php
-/**
- * $Date:$
- * $Revision:$
- * $Author:$
- * $HeadURL:$
- * $Id$
- */
 
 $config = array
 (

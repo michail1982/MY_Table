@@ -1,11 +1,4 @@
 <?php
-/**
- * $Date:$
- * $Revision:$
- * $Author:$
- * $HeadURL:$
- * $Id$
- */
 
 Class MY_Table extends CI_Table
 {
